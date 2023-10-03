@@ -2,13 +2,13 @@
 
 ![Logo do Projeto](logo.png)
 
-Projeto que utiliza NodeJS e MongoDB
+Projeto que utiliza NodeJS e MongoDB para realizar um CRUD.
 
 ## Instalação
 
 1. Certifique-se de ter o Node.js instalado em sua máquina.
-2. Clone este repositório: `git clone https://github.com/seu-usuario/seu-projeto.git`
-3. Acesse o diretório do projeto: `cd seu-projeto`
+2. Clone este repositório: `git clone https://github.com/GabrielAugustoFerreiraMaia/Node_Verbetes`
+3. Acesse o diretório do projeto: `cd Node_Verbetes`
 4. Instale as dependências: `npm install`
 
 ## Configuração
