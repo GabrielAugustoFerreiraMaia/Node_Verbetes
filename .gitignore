@@ -1,0 +1,46 @@
+# Ignorar arquivos e diretórios específicos
+
+/node_modules
+/dist
+.env
+
+# Ignorar arquivos de configuração
+
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignorar arquivos gerados pelo sistema operacional
+
+Thumbs.db
+.DS_Store
+
+# Ignorar arquivos de log
+
+*.log
+
+# Ignorar arquivos de build e dependências
+
+/build
+/.idea
+/.vscode
+/.npmrc
+/yarn.lock
+/package-lock.json
+
+# Ignorar diretório de cache
+
+/.cache
+
+# Ignorar arquivos de backup
+
+*.bak
+*.swp
+*~
+
+# Ignorar arquivos de configuração específicos de editores de texto
+
+.idea/
+.vscode/
